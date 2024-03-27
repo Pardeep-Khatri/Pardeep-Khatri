@@ -25,9 +25,6 @@ Hey there, fellow coder! 👋 Welcome to my little corner of the GitHub universe
 🌐 **LinkedIn:** Connect with me to stay updated on my professional journey and share insights.
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pardeepkhatri/)
 
-🐦 **Twitter:** Follow me [@pardeepkhatri33](https://twitter.com/pardeepkhatri33) for occasional tech musings, updates, and maybe a meme or two!
-   [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pardeepkhatri33)
-
 🧠 **LeetCode:** Check out my LeetCode solutions and progress.
    [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/PardeepKhatri/)
 
