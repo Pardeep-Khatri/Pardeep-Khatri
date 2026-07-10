@@ -6,7 +6,7 @@ Hey there, fellow coder! 👋 Welcome to my little corner of the GitHub universe
 
 - 🎓 **Education**: I completed my B.Tech in Computer Science Engineering from Punjabi University in 2022.
 - 💼 **Experience**: After graduation, I embarked on an exciting journey as an L1 Engineer at Mindtree Limited, where I gained hands-on experience and dabbled in various aspects of software development.
-- 📚 **Current Focus**: I'm diving deep into Data Structures and Algorithms with C++ to sharpen my coding skills, while also exploring new projects and opportunities to collaborate.
+- 📚 **Current Focus**: I'm diving deep into Data Structures and Algorithms with C++ to sharpen my coding skills and learning web development, while also exploring new projects and opportunities to collaborate.
 
 ## What You'll Find Here
 
