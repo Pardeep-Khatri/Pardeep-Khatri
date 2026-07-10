@@ -20,8 +20,6 @@ Hey there, fellow coder! 👋 Welcome to my little corner of the GitHub universe
 
 - 🔗 **LinkedIn:** Connect with me to stay updated on my professional journey and share insights.  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pardeepkhatri/)
-- 🧠 **LeetCode:** Check out my LeetCode solutions and progress.  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/PardeepKhatri/)
 
 ## Let's Code Together!
 
